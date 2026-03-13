@@ -1,7 +1,6 @@
-import React, { useEffect, useState, useRef } from 'react';
-import { motion, AnimatePresence, useScroll, useTransform } from 'motion/react';
-import { ArrowRight, CheckCircle2, MessageSquare, Play, Camera, Image, Layers, Target, TrendingUp, BarChart3, Search } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { motion, AnimatePresence } from 'motion/react';
+import { ArrowRight } from 'lucide-react';
 
 
 const MonterreySocialMedia = () => {
