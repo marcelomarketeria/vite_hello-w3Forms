@@ -931,7 +931,7 @@ const CTAFinal = () => {
           {/* CTA Button - Light Gray Pill */}
           <div className="pt-8">
             <motion.a
-              href="https://wa.me/528133876699"
+              href="https://wa.me/528128682050"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.02, backgroundColor: "#ffffff" }}
@@ -1036,7 +1036,7 @@ const Footer = () => {
               <div>
                 <h4 className="text-xs font-bold uppercase tracking-[0.3em] text-gray-500 mb-4">Hablemos</h4>
                 <a href="mailto:hola@marketeria.mx" className="text-2xl font-medium hover:text-brand transition-colors block">hola@marketeria.mx</a>
-                <a href="tel:8133876699" className="text-2xl font-medium hover:text-brand transition-colors block">8133 876699</a>
+                <a href="https://wa.me/528128682050" target="_blank" className="text-2xl font-medium hover:text-brand transition-colors block">8133 876699</a>
               </div>
               <div>
                 <h4 className="text-xs font-bold uppercase tracking-[0.3em] text-gray-500 mb-4">Social</h4>
