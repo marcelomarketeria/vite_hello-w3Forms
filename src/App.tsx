@@ -1036,7 +1036,7 @@ const Footer = () => {
               <div>
                 <h4 className="text-xs font-bold uppercase tracking-[0.3em] text-gray-500 mb-4">Hablemos</h4>
                 <a href="mailto:hola@marketeria.mx" className="text-2xl font-medium hover:text-brand transition-colors block">hola@marketeria.mx</a>
-                <a href="https://wa.me/528128682050" target="_blank" className="text-2xl font-medium hover:text-brand transition-colors block">8133 876699</a>
+                <a href="https://wa.me/528128682050" target="_blank" className="text-2xl font-medium hover:text-brand transition-colors block">+(52)812-868-2050</a>
               </div>
               <div>
                 <h4 className="text-xs font-bold uppercase tracking-[0.3em] text-gray-500 mb-4">Social</h4>
